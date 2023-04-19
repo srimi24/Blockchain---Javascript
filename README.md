@@ -1,2 +1,2 @@
 # Blockchain---Javascript
-This is a project based on the concepts of how a Blockchain works.
+This is a project based on the concept of 'Proof of Stake' under Blockchain.
