@@ -1,2 +1,2 @@
 # Blockchain---Javascript
-This is a project based on the concept of 'Proof of Stake' under Blockchain.
+This project which simulates proof of stake consensus protocol using javascript libraries.
